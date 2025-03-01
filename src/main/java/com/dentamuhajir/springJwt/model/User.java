@@ -24,6 +24,14 @@ public class User implements UserDetails {
 
     @Column(name = "password")
     String password;
+
+    @Column(name = "username")
+    String username;
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
     @Enumerated(value = EnumType.STRING)
     Role role;
 
