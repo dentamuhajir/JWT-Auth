@@ -1,0 +1,24 @@
+## Installation
+    https://start.spring.io
+    https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.4.3&packaging=jar&jvmVersion=17&groupId=com.dentamuhajir&artifactId=springJwt&name=springJwt&description=Demo%20project%20for%20Spring%20Boot&packageName=com.dentamuhajir.springJwt&dependencies=web,security,data-jpa,mysql
+## MySQL
+    -> Open Bash
+        mysql
+    -> Create DB
+        CREATE DATABASE real_estate;
+    -> mysql -u root -p
+    zcbsdbsdgwegwet23
+
+## Reference
+    -> https://asecuritysite.com/encryption/plain
+
+## repository
+    -> https://mvnrepository.com
+        https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt-api/0.12.3
+        https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt-impl/0.12.3
+        https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt-jackson/0.12.3
+
+
+
+
+
